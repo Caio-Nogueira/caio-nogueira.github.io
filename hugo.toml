@@ -22,7 +22,8 @@ url = "mailto:caionogueira0626@gmail.com"
   intro = "Caio Nogueira's Blog"
   description = "Hi there. I'm Caio. Welcome to my personal blog where I share my experience as a software engineer."
 
-# TODO: enable google analytics
+googleAnalytics = 'G-KPLH23EFHY'
+'
 
 ############################## English language ################################
 [menu]
