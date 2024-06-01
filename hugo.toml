@@ -1,0 +1,52 @@
+baseURL = 'https://caionogueira.github.io'
+languageCode = 'en-us'
+title = 'Caio Nogueira'
+theme = "hugo-blog-awesome"
+
+defaultContentLanguage = "en-us"
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/Caio-Nogueira"
+
+[[params.socialIcons]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/caiomnogueira/"
+
+[[params.socialIcons]]
+name = "email"
+url = "mailto:caionogueira0626@gmail.com"
+
+[params.author]
+  avatar = "cv_img.JPEG"
+  intro = "Caio Nogueira's Blog"
+  description = "Hi there. I'm Caio. Welcome to my personal blog where I share my experience as a software engineer."
+
+# TODO: enable google analytics
+
+############################## English language ################################
+[menu]
+  [[menu.main]]
+    # The page reference (pageRef) is useful for menu highlighting
+    # When pageRef is set, setting `url` is optional; it will be used as a fallback if the page is not found.
+    pageRef="/"
+    name = 'Home'
+    url = '/'
+    weight = 10
+  [[menu.main]]
+    pageRef="posts"
+    name = 'Posts'
+    url = '/posts/'
+    weight = 20
+  [[menu.main]]
+    pageRef="about"
+    name = 'About'
+    url = '/about/'
+    weight = 30
+
+
+[privacy]
+  [privacy.googleAnalytics]
+    enable = true
+    anonymizeIP = true
+
