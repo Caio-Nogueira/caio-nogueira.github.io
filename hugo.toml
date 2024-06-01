@@ -1,4 +1,4 @@
-baseURL = 'https://caionogueira.github.io'
+baseURL = 'https://caio-nogueira.github.io'
 languageCode = 'en-us'
 title = 'Caio Nogueira'
 theme = "hugo-blog-awesome"
