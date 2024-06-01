@@ -22,7 +22,12 @@ url = "mailto:caionogueira0626@gmail.com"
   intro = "Caio Nogueira's Blog"
   description = "Hi there. I'm Caio. Welcome to my personal blog where I share my experience as a software engineer."
 
-googleAnalytics = "G-KPLH23EFHY"
+[services]
+# To enable Google Analytics 4 (gtag.js) provide G-MEASUREMENT_ID below.
+# To disable Google Analytics, simply leave the field empty or remove the next two lines
+  [services.googleAnalytics]
+    id = 'G-KPLH23EFHY' # G-MEASUREMENT_ID
+
 
 [params.env]
   env = "production"
