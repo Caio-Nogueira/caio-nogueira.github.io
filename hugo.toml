@@ -22,7 +22,10 @@ url = "mailto:caionogueira0626@gmail.com"
   intro = "Caio Nogueira's Blog"
   description = "Hi there. I'm Caio. Welcome to my personal blog where I share my experience as a software engineer."
 
-googleAnalytics = 'G-KPLH23EFHY'
+googleAnalytics = "G-KPLH23EFHY"
+
+[params.env]
+  env = "production"
 
 ############################## English language ################################
 [menu]
@@ -48,5 +51,4 @@ googleAnalytics = 'G-KPLH23EFHY'
 [privacy]
   [privacy.googleAnalytics]
     enable = true
-    anonymizeIP = true
 
