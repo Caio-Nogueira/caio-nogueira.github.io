@@ -6,7 +6,7 @@ date: "2024-05-30"
 ---
 
 # I'm Caio
-Currently working as backend sodtware engineer at [Losch Digital Lab](https://loschdigitallab.lu/). My work is focused on maintaining a large codebase and adding new features to the platform. I am usually looking for new ways to improve developer experience always on the lookout for new tools and technologies that can help me to achieve that.
+Currently working as backend software engineer at [Losch Digital Lab](https://loschdigitallab.lu/). My work is focused on maintaining a large codebase and adding new features to the platform. I am usually looking for new ways to improve developer experience always on the lookout for new tools and technologies that can help me to achieve that.
 
 I'm passionate about technology and I love to learn new things. I'm always looking for new challenges and opportunities to grow. Besides my professional work, I also carry out personal projects that help me to improve my skills and knowledge.
 
